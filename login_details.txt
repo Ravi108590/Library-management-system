@@ -1,0 +1,7 @@
+Account Type    |   Username    |   Password
+    Admin       |   admin       |   1234
+    Teacher     |   11001       |   1234   <-
+    Teacher     |   11002       |   1234
+    Student     |   22001       |   1234
+    Student     |   22002       |   1234   <-
+

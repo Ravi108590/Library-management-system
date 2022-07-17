@@ -1,0 +1,8 @@
+.body {
+	background-image: url(http://localhost/library-management-system/assets/img/hero.jpg);
+	background-size: cover;
+}
+
+nav {
+	background-color: #ddd;
+}
